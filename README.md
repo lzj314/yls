@@ -1,7 +1,7 @@
 # my-project
 
 > 一个移动端电商类app，后台使用的是mock数据。
-vue技术栈，如果数据交互复杂可以尝试使用vuex。
+vue技术栈。
 
 ## Build Setup
 
