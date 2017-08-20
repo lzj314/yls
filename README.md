@@ -1,6 +1,6 @@
 # my-project
 
-> 一个移动端电商类app，后台使用的是mock数据。
+> 一个移动端电商类webapp，后台使用的是mock数据。
 vue技术栈。
 
 ## Build Setup
